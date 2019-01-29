@@ -1,7 +1,7 @@
 ---
 title: week2assg
 author: Max Mochizuki
-partner:
+partner: Delton Ky
 date: 01/21/2019
 ---
 
